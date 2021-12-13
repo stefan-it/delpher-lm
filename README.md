@@ -1,7 +1,7 @@
 # Language Model for Historic Dutch
 
 In this repository we open source a language model for Historic Dutch, trained on the
-[Delpher Corpus](https://www.delpher.nl/over-delpher/delpher-open-krantenarchief/download-teksten-kranten-1618-1879\),
+[Delpher Corpus](https://www.delpher.nl/over-delpher/delpher-open-krantenarchief/download-teksten-kranten-1618-1879),
 that include digitized texts from Dutch newspapers, ranging from 1618 to 1879.
 
 # Changelog
