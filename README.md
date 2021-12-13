@@ -20,7 +20,7 @@ The following models for Historic Dutch are available on the Hugging Face Model 
 
 The download urls for all archives can be found [here](delpher-corpus.urls).
 
-We then used the awesome `alto-tools` from [this](https://github.com/cneud/alto-tools)
+We then used the awesome `alto-tools` from @cneud from [this](https://github.com/cneud/alto-tools)
 repository to extract plain text. The following table shows the size overview per year range:
 
 | Period    | Extracted plain text size
@@ -112,6 +112,9 @@ All models are licensed under [MIT](LICENSE).
 
 Research supported with Cloud TPUs from Google's TPU Research Cloud (TRC) program, previously known as
 TensorFlow Research Cloud (TFRC). Many thanks for providing access to the TRC ❤️
+
+We thank Clemens Neudecker for maintaining the amazing [ALTO tools](https://github.com/cneud/alto-tools)
+that were used for parsing the Delpher Corpus XML files.
 
 Thanks to the generous support from the [Hugging Face](https://huggingface.co/) team,
 it is possible to download both cased and uncased models from their S3 storage 🤗
