@@ -101,7 +101,7 @@ Results:
 | Model               | F1-Score (Dev / Test)
 | ------------------- | ---------------------
 | hmBERT              | (82.73) / 81.34
-| Maerz et al. (2021) | - / 84.2
+| März et al. (2021) | - / 84.2
 | Ours                | (89.73) / 87.45
 
 # License
